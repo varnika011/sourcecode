@@ -1,0 +1,39 @@
+<!--
+  ~ Copyright (C) 2022 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">STREAKk SHOWS!</string>
+    <string name="dog_name_1">Bigg Boss</string>
+    <string name="dog_name_2">Kon Banega Carorepati</string>
+    <string name="dog_name_3">Indian Idol</string>
+    <string name="dog_name_4">MTV splitsvilla</string>
+    <string name="dog_name_5">MTV hustle</string>
+    <string name="dog_name_6">India Got Talent</string>
+    <string name="dog_name_7">Roadies</string>
+    <string name="dog_name_8">Khatron Ke Khiladi</string>
+    <string name="dog_name_9">Jhalak Dikhla jaa</string>
+    <string name="dog_description_1">Available on voot , hosted by Salman Khan</string>
+    <string name="dog_description_2">Available on Sony live app , hosted by Amitabh Bacchan</string>
+    <string name="dog_description_3">Available on Sony Liv and sony tv app , hosted by Aditya Narayan</string>
+    <string name="dog_description_4">Available on Colors TV and voot app , hosted by Sunny Leone and Rannvijay</string>
+    <string name="dog_description_5">Available on MTV and voot app , hosted by Maniesh Paul</string>
+    <string name="dog_description_6">Available on Colors TV and Voot app</string>
+    <string name="dog_description_7">Available on Voot aoo , hosted by Ranvijay Sinha</string>
+    <string name="dog_description_8">Available on colors tv and voot app , hosted by Rohit Shetty</string>
+    <string name="dog_description_9">Available on colors tv and voot app , hosted by Maniesh Paul</string>
+    <string name="about">About:</string>
+    <string name="years_old">Duration %d hour</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
